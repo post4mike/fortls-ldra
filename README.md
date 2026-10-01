@@ -1,6 +1,6 @@
 ![alt](https://raw.githubusercontent.com/fortran-lang/fortls/master/assets/logo.png)
 
-# fortls - Fortran Language Server
+# fortls - Fortran Language Server for LDRA
 
 [![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat-square&colorA=E1523D&colorB=007D8A)](https://numfocus.org)
 ![PyPI](https://img.shields.io/pypi/v/fortls?style=flat-square)
